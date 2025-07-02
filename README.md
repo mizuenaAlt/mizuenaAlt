@@ -30,14 +30,3 @@ I need a job to support myself. If you also need a partner, please contact me vi
     </td>
 </tr>
 </table>
-
-<table frame=void>
-<tr>
-    <td style="vertical-align: top">
-        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizuenaAlt&theme=transparent">
-    </td>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizuenaAlt&layout=compact&count_private=true&hide_border=true">
-    </td>
-</tr>
-</table>
