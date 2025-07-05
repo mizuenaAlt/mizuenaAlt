@@ -26,7 +26,7 @@ I need a job to support myself. If you also need a partner, please contact me vi
         <img align="left" src="https://streak-stats.demolab.com?user=mizuenaAlt&count_private=true&hide_border=true&border_radius=1)](https://git.io/streak-stats">
     </td>
     <td>
-        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mizuenaAlt&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs&bg_color=00000000&title_color=7957d5">
+        <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mizuenaAlt&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs&bg_color=00000000&title_color=7957d5&text_color=7957d5">
     </td>
 </tr>
 </table>
